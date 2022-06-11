@@ -1,8 +1,8 @@
-import React from "react";
-import "./App.css";
+import React from 'react'
+import MapComponent from './MapComponent'
 
 function App() {
-  return <div className="App">asd</div>;
+    return <MapComponent />
 }
 
-export default App;
+export default App
